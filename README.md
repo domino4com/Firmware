@@ -1,6 +1,6 @@
-# SDG-Starter
-SDG Starter Kit
-Download latest .bin file from here: [Latest release](https://github.com/24mm2/SDG-Starter/releases/latest)
+# Domino4 Firmware
+
+Download latest .bin file from here: [Latest release](https://github.com/24mm2/Domino4-Firmware/releases/latest)
 
 ## Libraries used
 - ODA: [OLED Display](https://github.com/ThingPulse/esp8266-oled-ssd1306) (via GitHub)
