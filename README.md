@@ -13,7 +13,7 @@ Download latest .bin file from here: [Latest release](https://github.com/24mm2/D
   - IWA: [Weather Sensor (SHT3x)](https://github.com/wemos/WEMOS_SHT3x_Arduino_Library) (via GitHub)
   - IWB: [Barometer (SPL06-00x)](https://github.com/rv701/SPL06-007) (via GitHub)
   - INA: GNSS TBD
-  - IGA: Airquaility (SGP30) TBD
+  - IGA: [Airquaility (SGP30)](https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library) (via GitHub)
   - IIA: Accelerometer (LIS2DH12) TBD
 - **Support:**
   - ArduinoJSON [...more](https://arduinojson.org) (via Arduino)
